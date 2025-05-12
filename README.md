@@ -36,15 +36,15 @@ HJMB/
 │   └── server.js           # Main
 ├── frontend/               # Aplikasi React
 │   |── src/                # Halaman dan komponen
-│   │   ├── assets          # File media
-│   │   ├── components      # Komponen dan sub komponen reusable
-│   │   ├── contexts        # Auth Profider(Login, Regis, Token Refresh Token) dan Data Realtime
-│   │   ├── layouts         # Penanganan layout responsivitas
-│   │   ├── pages           # File halaman
-│   │   ├── routes          # Route ke halaman
-│   │   ├── services        # Berisi fungsi request API ke Backend dan SocketIO Client
-│   │   ├── utils           # Fungsi sederhana tambahan untuk kelola kalimat, format RP dll
-│   │   ├── lib             # Config api request dengan interceptors
+│   │   ├── assets/          # File media
+│   │   ├── components/      # Komponen dan sub komponen reusable
+│   │   ├── contexts/        # Auth Profider(Login, Regis, Token Refresh Token) dan Data Realtime
+│   │   ├── layouts/         # Penanganan layout responsivitas
+│   │   ├── pages/           # File halaman
+│   │   ├── routes/          # Route ke halaman
+│   │   ├── services/        # Berisi fungsi request API ke Backend dan SocketIO Client
+│   │   ├── utils/           # Fungsi sederhana tambahan untuk kelola kalimat, format RP dll
+│   │   ├── lib/             # Config api request dengan interceptors
 │   │   ├── App.jsx         # Penggunaan contex
 │   │   ├── main.jsx        # File main aplikasi
 │   │   └── index.css       # Tailwind dan costum CSS
