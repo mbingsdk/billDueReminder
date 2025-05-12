@@ -158,4 +158,4 @@ Socket aktif setelah login. Mendengarkan event:
 
 ## 📄 Lisensi
 
-Proyek ini dikembangkan untuk kebutuhan internal.
+Proyek ini dikembangkan dengan ❤️ oleh mbingsdk untuk kebutuhan internal.
